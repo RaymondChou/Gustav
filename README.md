@@ -5,7 +5,11 @@ A Fast API Service Gateway, Let Your RESTful API Becomes A Real-Time WebSocket A
 ![image](http://img.gawkerassets.com/img/18kzpdz4lkrzejpg/ku-xlarge.jpg)
 
 ## Status
-Under develop
+Under developing
+
+HTTP(GET/POST/PUT/DELETE/UPDATE) support basically.
+
+A gem for rails app, communication through rack middleware(more faster & easier). 
 
 ## Quick start
 Writing…

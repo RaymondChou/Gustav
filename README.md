@@ -28,4 +28,4 @@ git commit -s -m "this commit will be signed off automatically!"
 
 ## License
 
-Laravel is open-sourced software licensed under the MIT License.
+Gustav is open-sourced software licensed under the MIT License.
